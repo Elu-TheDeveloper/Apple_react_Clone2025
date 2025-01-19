@@ -1,10 +1,11 @@
+import React from "react"
 import watch from "../../assets/images/home/watch10.png"
 function Section3() {
   return (
     <section className="third-hightlight-wrapper">
     <div className="container">
         <div className="title-wraper bold">
-    <img src={watch}></img>
+    <img src={watch} alt="watch" />
         </div>
         <div class="links-wrapper">
   <ul>

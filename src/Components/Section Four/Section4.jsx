@@ -1,5 +1,5 @@
 import React from 'react';
-import fitness from"../../assets/images/home/fitness.png"
+import fitness from "../../assets/images/home/fitness.png"
 import iPadAir from"../../assets/images/home/iPad_Air.png"
 function Section4() {
   return (
@@ -9,7 +9,7 @@ function Section4() {
         <div className="left-side-wrapper col-sm-12 col-md-6">
             <div className="left-side-container">
               <div className="logo-wrapper">
-              <img src={fitness}/>
+              <img src={fitness} alt="Fitness" />
               </div>
             <div className="descrption-wrapper">
             <h5>Fitness for Everyone.</h5>
@@ -27,7 +27,7 @@ function Section4() {
           <div className="right-side-wrapper col-sm-12 col-md-6">
             <div className="right-side-container">
               <div className="title-wrapper white">
-              <img src={iPadAir} />
+              <img src={iPadAir} alt="iPad Air" />
               </div>
               <div class="links-wrapper right">
   <ul>
