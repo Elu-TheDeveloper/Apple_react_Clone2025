@@ -15,12 +15,10 @@ function Section6() {
   <h5>Get up to 3% Daily Cash back with every purchase</h5>
 <hr/>
   <ul>
-    <li><a href="" class="primary-btn">Get Your Estimate</a></li>
+    <li><a href="" className="primary-btn">Get Your Estimate</a></li>
   </ul>
 </div>
 						</div>
-						{/* <div className="description-wraper white">
-						</div> */}
 					</div>						
 					</div>
 				</div>
@@ -32,10 +30,10 @@ function Section6() {
 						<div className="description-wraper">
 							Pay for your next iPhone over time, interest-free with Apple Card.
 						</div>
-						<div class="links-wrapper right">
+						<div className="links-wrapper right">
   <ul>
     <li><a href="" class="primary-btn">Learn more</a></li>
-    <li class="button"><a href="" class="secondary-btn">Buy</a></li>
+    <li className="button"><a href="" className="secondary-btn">Buy</a></li>
   </ul>
 </div>
 					</div>

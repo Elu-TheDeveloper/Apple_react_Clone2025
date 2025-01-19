@@ -10,10 +10,10 @@ function Section1() {
         <div className="description-wrapper">
           Hello, Apple Intellegence
         </div>
-        <div class="links-wrapper">
+        <div className="links-wrapper">
   <ul>
-    <li><a href="" class="primary-btn">Learn more</a></li>
-    <li><a href="" class="secondary-btn">Buy</a></li>
+    <li><a href="" className="primary-btn">Learn more</a></li>
+    <li><a href="" className="secondary-btn">Buy</a></li>
   </ul>
 </div>
     </div>

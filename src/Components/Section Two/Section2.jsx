@@ -1,5 +1,3 @@
-
-
 function Section2() {
   return (
     <section className="second-hightlight-wrapper">
@@ -10,10 +8,10 @@ function Section2() {
         <div className="description-wrapper">
           Hello ,Apple Intellegence
         </div>
-        <div class="links-wrapper white">
+        <div className="links-wrapper white">
   <ul>
-    <li><a href="" class="primary-btn">Learn more</a></li>
-    <li class="button"><a href="" class="secondary-btn">Buy</a></li>
+    <li><a href="" className="primary-btn">Learn more</a></li>
+    <li className="button"><a href="" className="secondary-btn">Buy</a></li>
   </ul>
 </div>
     </div>
