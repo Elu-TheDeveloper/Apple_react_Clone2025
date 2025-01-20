@@ -1,4 +1,4 @@
-import watch from "../../assets/images/home/watch10.png"
+import watch from "@/assets/images/home/watch10.png";
 function Section3() {
   return (
     <section className="third-hightlight-wrapper">

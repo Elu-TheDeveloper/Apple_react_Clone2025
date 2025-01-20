@@ -1,6 +1,6 @@
 import React from 'react';
 import fitness from "@/assets/images/home/fitness.png";
-import iPadAir from"../../assets/images/home/iPad_Air.png"
+import iPadAir from"@/assets/images/home/iPad_Air.png"
 function Section4() {
   return (
     <section className="fourth-highlight-wrapper">

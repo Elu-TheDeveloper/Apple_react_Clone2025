@@ -1,5 +1,5 @@
 import React from 'react'
-import Tradein from "../../assets/images/home/Tradein.png"
+import Tradein from "@/assets/images/home/Tradein.png";
 function Section6() {
   return (
     <section className="sixth-highlight-wrapper">

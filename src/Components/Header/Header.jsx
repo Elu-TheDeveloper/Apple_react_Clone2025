@@ -1,7 +1,8 @@
 import React from "react";
-import logox from "../../assets/images/icons/logo-sm.png";
-import searchlogo from "../../assets/images/icons/search-icon-sm.png";
-import cartlogo from "../../assets/images/icons/cart-sm.png";
+import logox from "@/assets/images/icons/logo-sm.png";
+import searchlogo from "@/assets/images/icons/search-icon-sm.png";
+import cartlogo from "@/assets/images/icons/cart-sm.png";
+
 import { Link } from "react-router-dom"; 
 
 function Header() {
