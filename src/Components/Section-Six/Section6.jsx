@@ -1,5 +1,5 @@
 import React from 'react'
-import Tradein from "@/assets/images/home/Tradein.png";
+import Trade from "@/assets/images/home/TradeIn.png";
 function Section6() {
   return (
     <section className="sixth-highlight-wrapper">
@@ -8,7 +8,7 @@ function Section6() {
 				<div className="left-side-wrapper col-sm-12 col-md-6">
 					<div className="left-side-container long">
 						<div className="mark">
-						<img src={Tradein}/>
+						<img src={Trade}/>
 							<div className="logo-wrapper">
 							<div class="links-wrapper right">
  
