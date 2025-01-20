@@ -1,15 +1,15 @@
 import watch from "../../assets/images/home/watch.png"
 function Section5() {
   return (
-    <section classNameName="fifth-highlight-wrapper">
-		<div classNameName="container-fluid">
-			<div classNameName="row">
-				<div classNameName="left-side-wrapper col-sm-12 col-md-6">
-					<div classNameName="left-side-container right">
-					<div classNameName="descrption-wrapper">
+    <section className="fifth-highlight-wrapper">
+		<div className="container-fluid">
+			<div className="row">
+				<div className="left-side-wrapper col-sm-12 col-md-6">
+					<div className="left-side-container right">
+					<div className="descrption-wrapper">
 							MacBook Pro
 							</div>
-							<div classNameName="title-wrapper1">
+							<div className="title-wrapper1">
 							A work of Smart
 							</div>
 						<div className="links-wrapper right">
@@ -20,10 +20,10 @@ function Section5() {
 </div>
 					</div>
 				</div>
-				<div classNameName="right-side-wrapper col-sm-12 col-md-6">
-					<div classNameName="right-side-container">
-						<div classNameName="top-logo-wrapper">
-							<div classNameName="logo-wrapper">
+				<div className="right-side-wrapper col-sm-12 col-md-6">
+					<div className="right-side-container">
+						<div className="top-logo-wrapper">
+							<div className="logo-wrapper">
 								<img src={watch}/>
 							</div>
 						</div>
